@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "65fb788ebdd282e90a514796"
+  },
+  "name": "Barbie",
+  "info": "A barbie doll",
+  "category": "dolls",
+  "img_url": "https://cdn.pixabay.com/photo/2019/06/06/13/22/doll-4255992_1280.jpg",
+  "price": 45,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T00:00:14.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T00:00:14.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0796bdd282e90a514799"
+  },
+  "name": "toy cars",
+  "info": "toy cars",
+  "category": "vehicle toys",
+  "img_url": "https://cdn.pixabay.com/photo/2016/05/01/09/25/model-1364607_1280.jpg",
+  "price": 30,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:10:30.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:10:30.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc07cabdd282e90a51479b"
+  },
+  "name": "lego kingdom",
+  "info": "lego kingdom",
+  "category": "lego toys",
+  "img_url": "https://cdn.pixabay.com/photo/2017/06/08/09/46/lego-2383089_1280.jpg",
+  "price": 500,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:11:22.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:11:22.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc07debdd282e90a51479d"
+  },
+  "name": "polly pocket",
+  "info": "polly pocket",
+  "category": "dolls",
+  "img_url": "",
+  "price": 30,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:11:42.121Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:11:42.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc07f0bdd282e90a51479f"
+  },
+  "name": "toy busses",
+  "info": "toy busses",
+  "category": "vehicle toys",
+  "img_url": "https://cdn.pixabay.com/photo/2012/02/28/10/13/school-17989_1280.jpg",
+  "price": 30,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:12:00.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:12:00.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0801bdd282e90a5147a1"
+  },
+  "name": "lego house",
+  "info": "lego house",
+  "category": "lego toys",
+  "img_url": "https://cdn.pixabay.com/photo/2015/03/15/12/53/lego-674354_1280.jpg",
+  "price": 400,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:12:17.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:12:17.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0815bdd282e90a5147a3"
+  },
+  "name": "baby doll",
+  "info": "a doll that looks like a baby",
+  "category": "dolls",
+  "img_url": "https://cdn.pixabay.com/photo/2017/08/28/17/35/doll-2690528_1280.jpg",
+  "price": 50,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:12:37.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:12:37.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0827bdd282e90a5147a5"
+  },
+  "name": "train toy",
+  "info": "train toy",
+  "category": "vehicle toys",
+  "img_url": "https://cdn.pixabay.com/photo/2018/01/06/11/22/steam-locomotive-3064786_1280.jpg",
+  "price": 30,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:12:55.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:12:55.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0837bdd282e90a5147a7"
+  },
+  "name": "lego faces",
+  "info": "lego faces",
+  "category": "lego toys",
+  "img_url": "https://cdn.pixabay.com/photo/2019/08/02/17/10/lego-4380126_1280.jpg",
+  "price": 100,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:13:11.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:13:11.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0848bdd282e90a5147a9"
+  },
+  "name": "American girl",
+  "info": "An American girl doll",
+  "category": "dolls",
+  "img_url": "https://media.istockphoto.com/id/1198275471/photo/little-girl-playing-doctor.jpg?s=1024x1024&w=is&k=20&c=IsIiQJVHa1FSxlgmBpKfTW9XKriWZp5H7y3W8DB-s8M=",
+  "price": 100,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:13:28.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:13:28.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc085ebdd282e90a5147ab"
+  },
+  "name": "plain toy",
+  "info": "plain toy",
+  "category": "vehicle toys",
+  "img_url": "https://cdn.pixabay.com/photo/2013/06/26/13/53/rc-141409_1280.jpg",
+  "price": 100,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:13:50.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:13:50.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc0887bdd282e90a5147ad"
+  },
+  "name": "Darth Wader",
+  "info": "Darth Wader",
+  "category": "lego toys",
+  "img_url": "https://cdn.pixabay.com/photo/2015/09/09/19/55/toy-932922_1280.jpg",
+  "price": 10,
+  "user_id": "65fb0fb68198bbbe1c0935f4",
+  "createdAt": {
+    "$date": "2024-03-21T10:14:31.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T10:14:31.785Z"
+  },
+  "__v": 0
+}]
